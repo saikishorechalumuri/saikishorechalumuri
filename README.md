@@ -9,7 +9,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m Embedded software Engineering. </br>
+🎓 I’m Doing Embedded software Engineering. </br>
 👨‍💻  I am passionate about Embedded Sytems, Linux & I enjoy break things and build back. </br>
     pursuing postgraduation in Embedded systems and development Conestoga college   </br>
      seeking for co-op postion  in canada </br>
