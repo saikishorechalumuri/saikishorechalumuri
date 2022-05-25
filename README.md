@@ -12,4 +12,4 @@
 🎓 I’m Doing Embedded software Engineering. </br>
 👨‍💻  I am passionate about Embedded Sytems, Linux & I enjoy break things and build back. </br>
     pursuing postgraduation in Embedded systems and development Conestoga college   </br>
-     working as Embedded Data Scientist </br>
+     working as Embedded Data Scientist at DigitalKitchener Inovation Cell </br>
