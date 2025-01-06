@@ -70,16 +70,12 @@
 ---
 
 ---
+### 🎓 Certifications & Expertise  
+I have successfully completed over 30+ certifications in **Product Management**, **Sales**, **Stakeholder Management**, and **Business Strategy**. These certifications have equipped me with the skills and knowledge to drive impactful strategies, foster business growth, and lead teams effectively in diverse and dynamic environments.
 
-### 📊 GitHub Stats  
+![Certifications Badge](https://img.shields.io/badge/30%2B%20Certifications-blue?style=flat&logo=appveyor)  
+![Completed Status](https://img.shields.io/badge/100%25%20Completed-success?style=flat&logo=github)
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakeusername&show_icons=true&hide=stars&theme=gruvbox)  
-
-### 🌟 Top Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeusername&layout=compact&theme=gruvbox)  
-
----
 
 ---
 
