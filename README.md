@@ -24,26 +24,41 @@
 📍 Currently a **Product Manager at Crunch Fitness**, focusing on crafting user-centric solutions and enabling team success.  
 
 ---
-
 ### 🛠️ My Skill Set  
 
 #### 💼 **Product Management & Leadership**  
 - 📈 Roadmap Planning & Execution  
-- 🔄 Agile Methodologies (Scrum & Kanban)  
-- 🤝 Stakeholder Collaboration  
-- 📊 Data-Driven Decision Making  
+- 🔄 Agile Methodologies (Scrum, Kanban, SAFe)  
+- 🤝 Stakeholder Engagement & Cross-Functional Collaboration  
+- 📊 Data-Driven Decision Making & KPI Management  
+- 📋 Product Lifecycle Management (PLM)  
+- 🎯 Goal-Oriented Team Leadership & Performance Management  
 
-#### 🛒 **Sales & Business Development**  
-- 🚀 Tech Sales Strategy  
-- 🤝 Client Relationship Management  
-- 🔍 Market Research & Competitive Analysis  
-- 💰 Revenue Growth Optimization  
+#### 🛒 **Sales, Revenue & Business Development**  
+- 🚀 Tech Sales & Go-to-Market Strategy Development  
+- 🤝 Client Acquisition, Retention, and Relationship Management  
+- 🔍 Market Research, Competitive Analysis, and Positioning  
+- 💰 Revenue Growth Planning & Forecasting  
+- 💡 Upselling, Cross-Selling, and Contract Negotiation  
+- 🔧 CRM Tools Expertise (Salesforce, HubSpot, Zoho CRM)  
 
 #### 💡 **Innovation & Creativity**  
-- 🧩 Design Thinking & Problem-Solving  
-- 🎨 User-Centric Product Design  
-- ⚡ Building Minimum Viable Products (MVPs)  
-- ✨ Creative Marketing Campaigns  
+- 🧩 Design Thinking & Problem-Solving Frameworks  
+- 🎨 User-Centric Product Design & Experience Mapping  
+- ⚡ Building and Scaling Minimum Viable Products (MVPs)  
+- ✨ Creative Marketing Strategies & Campaign Execution  
+- 📦 Ideation for Innovative Business Models  
+
+#### 📊 **Revenue & Business Strategy**  
+- 💼 P&L Management and Budget Allocation  
+- 📈 Scaling Products & Services Across New Markets  
+- 📊 Strategic Financial Planning and Risk Analysis  
+- 📋 Partnering with Sales Teams to Optimize Sales Funnels  
+- 🔑 Identifying Key Growth Opportunities Through Data Analytics  
+- 🛠️ Business Process Improvement and Automation  
+
+---
+ 
 
 #### 🔧 **Technical Expertise**  
 - **Embedded Systems**: Real-Time Operating Systems (RTOS), Microcontrollers, Embedded C/C++ ,Programing languages in 5+.
