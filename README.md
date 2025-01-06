@@ -20,7 +20,7 @@
 
 👨‍💻 **Professional Journey**:  
 - **3+ years of Product Management** experience in driving growth and innovation.  
-- **1.5 years of Software Engineering**, building scalable and reliable systems.  
+- **2.5 years of Software Engineering**, building scalable and reliable systems.  
 📍 Currently a **Product Manager at Crunch Fitness**, focusing on crafting user-centric solutions and enabling team success.  
 
 ---
@@ -54,15 +54,17 @@
 
 ---
 
-### 🌟 Highlights & Stats  
+---
 
-📊 **GitHub Stats**  
+### 📊 GitHub Stats  
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide=stars&theme=radical)  
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakeusername&show_icons=true&hide=stars&theme=gruvbox)  
 
-🌟 **Top Languages**  
+### 🌟 Top Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeusername&layout=compact&theme=gruvbox)  
+
+---
 
 ---
 
