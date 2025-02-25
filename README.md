@@ -35,7 +35,7 @@
 - 🎯 Goal-Oriented Team Leadership & Performance Management  
 
 #### 🛒 **Sales, Revenue & Business Development**  
-- 🚀 Tech Sales & Go-to-Market Strategy Development  
+- 🚀 High contract Sales & Go-to-Market Strategy Development  
 - 🤝 Client Acquisition, Retention, and Relationship Management  
 - 🔍 Market Research, Competitive Analysis, and Positioning  
 - 💰 Revenue Growth Planning & Forecasting  
